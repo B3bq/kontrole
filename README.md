@@ -10,5 +10,5 @@ także bardzo ważny tekst
 ### kolejne zmiany
 tekst
 
-### naglowek 5
+### nagłówek 5
 inny tekst
