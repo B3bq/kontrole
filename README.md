@@ -8,3 +8,7 @@ bardzo wazny tekst
 także bardzo ważny tekst
 
 ### kolejne zmiany
+tekst
+
+### naglowek 5
+inny tekst
